@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "L6RHXFS994.ru.ftc.zk.dp.fee-online-tmp",
+        "appID": "L6RHXFS994.ru.ftc.zk.dp.fee-online",
         "paths": ["/repayment/online/api/forms/*/"]
       }
     ]
