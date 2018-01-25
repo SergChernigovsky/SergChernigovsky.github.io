@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "L6RHXFS994.ru.ftc.zk.dp.fee-online",
-        "paths": ["/repayment/online/forms/*/"]
+        "paths": ["/repayment/online/forms/*/", "/repayment/online/*/"]
       }
     ]
   }
